@@ -1,0 +1,35 @@
+{
+    "name": "Departamento de Psicología",
+    "short_name": "Psicología",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#4B3A8C",
+    "theme_color": "#4B3A8C",
+    "description": "Sistema del Departamento de Psicología",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
